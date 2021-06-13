@@ -1,0 +1,13 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Members"
+    url: /member/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
