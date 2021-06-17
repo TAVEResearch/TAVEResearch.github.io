@@ -1,7 +1,7 @@
 ---
 layout: single
 title: jekyll blog 시작하기
-subtitle: description
+excerpt: jekyll 블로그 관리하기
 ---
 
 ### Ruby설치
