@@ -1,10 +1,4 @@
 ---
-layout: single
+layout: about
 title: Members
 ---
-
-## members
-
-- lee
-- park
-- kinm

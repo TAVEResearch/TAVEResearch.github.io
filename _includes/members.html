@@ -1,0 +1,6 @@
+{% for post in site.member %}
+    <hr>
+    <div>{{ post.name }}</div>
+    <div>{{ post.interests }}</div>
+    <div><a href="{{ post.gitblog }}">{{ post.gitblog }}</a></div>
+{% endfor %}

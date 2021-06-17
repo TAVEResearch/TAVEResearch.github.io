@@ -1,4 +1,8 @@
-## 시작하기
+---
+layout: single
+title: jekyll blog 시작하기
+subtitle: description
+---
 
 ### Ruby설치
 
@@ -40,12 +44,12 @@ subtitle: description
 ---
 ```
 
-### 수식
+### 수식 추가
 
 - 수식은 기본적으로 latex 문법을 따름
 - 내용 추가 예정
 
-### 이미지
+### 이미지 추가
 
 ```markdown
 ![이미지 대체 텍스트](\/이미지 경로/)
@@ -72,5 +76,3 @@ subtitle: description
 ## member 추가하기
 
 - \_config.yml 파일에 members에서 추가 가능하다.
-
-##### [참고하기](https://ansohxxn.github.io/blog/category/)
