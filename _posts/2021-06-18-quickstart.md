@@ -2,6 +2,10 @@
 layout: single
 title: jekyll blog 시작하기
 excerpt: jekyll 블로그 관리하기
+categories:
+  - quickstart
+tag:
+  - quickstart
 ---
 
 ### Ruby설치
@@ -39,8 +43,12 @@ bundle exec jekyll serve
 ```markdown
 ---
 layout: single
-title: test
-subtitle: description
+title: jekyll blog 시작하기
+excerpt: jekyll 블로그 관리하기
+categories:
+  - quickstart
+tag:
+  - quickstart
 ---
 ```
 
@@ -52,7 +60,7 @@ subtitle: description
 ### 이미지 추가
 
 ```markdown
-![이미지 대체 텍스트](\/이미지 경로/)
+![이미지 대체 텍스트](이미지 경로)
 ```
 
 ## Post 게시

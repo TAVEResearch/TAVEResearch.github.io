@@ -4,6 +4,8 @@ main:
     url: /about/
   - title: "Members"
     url: /member/
+  - title: "Categories"
+    url: /categories/list
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
 
