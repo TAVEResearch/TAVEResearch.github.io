@@ -3,9 +3,10 @@ layout: single
 title: jekyll blog 시작하기
 excerpt: jekyll 블로그 관리하기
 categories:
-  - quickstart
+  - blog
 tag:
-  - quickstart
+  - blog
+author: Sangwon
 ---
 
 ### Ruby설치
@@ -84,3 +85,10 @@ tag:
 ## member 추가하기
 
 - \_config.yml 파일에 members에서 추가 가능하다.
+
+```yaml
+member:
+  - name: 이름
+    interests: "관심사"
+    gitblog: "블로그나 github 주소"
+```
