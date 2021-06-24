@@ -274,6 +274,28 @@ defaults:
 
 # member list
 People:
+  - name: *Alphabetical order
+  - name: Kim YeongHyeon
+    interests: "NLP"
+    gitblog: "https://naver.com"
+  - name: Jeiyoon Park
+    interests: "NLP"
+    gitblog: "https://naver.com"
+  - name: park
+    interests: "NLP"
+    gitblog: "https://naver.com"
+  - name: park
+    interests: "NLP"
+    gitblog: "https://naver.com"
+  - name: park
+    interests: "NLP"
+    gitblog: "https://naver.com"
+  - name: park
+    interests: "NLP"
+    gitblog: "https://naver.com"
+   - name: Jeiyoon Park
+    interests: "NLP"
+    gitblog: "https://naver.com"
   - name: Jeiyoon Park
     interests: "NLP"
     gitblog: "https://naver.com"
