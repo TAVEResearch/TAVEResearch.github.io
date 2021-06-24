@@ -47,9 +47,10 @@ layout: single
 title: jekyll blog 시작하기
 excerpt: jekyll 블로그 관리하기
 categories:
-  - quickstart
+  - blog
 tag:
-  - quickstart
+  - blog
+author: Sangwon
 ---
 ```
 
