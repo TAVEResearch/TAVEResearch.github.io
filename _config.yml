@@ -273,7 +273,7 @@ defaults:
       show_date: true
 
 # member list
-People (*Alphabetical order):
+People:
   - name: Kim YeongHyeon
     interests: "NLP"
     gitblog: "https://naver.com"
