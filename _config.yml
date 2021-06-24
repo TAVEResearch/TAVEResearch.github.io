@@ -16,7 +16,7 @@ minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon"
 
 # Site Settings
 locale: "en-US"
-title: "TAVE Research Blog"
+title: "TAVE Research"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 name: "TAVE Research"
@@ -93,7 +93,7 @@ analytics:
 
 # Site Author
 author:
-  name: "TAVE Research"
+  name: "TAVE"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "Hi there"
   location: "Korea"
@@ -129,7 +129,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/TAVEResearch"
+      # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -138,7 +138,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/tave_wave/"
+      # url:
 
 # Reading Files
 include:
@@ -274,40 +274,39 @@ defaults:
 
 # member list
 People:
-  - name: (*Alphabetical order)
   - name: Kim YeongHyeon
     interests: "NLP"
     gitblog: "https://naver.com"
-  - name: Jeiyoon Park
+  - name: 박예원
     interests: "NLP"
     gitblog: "https://naver.com"
-  - name: park
+  - name: 박제윤
     interests: "NLP"
     gitblog: "https://naver.com"
-  - name: park
+  - name: 심소민
     interests: "NLP"
     gitblog: "https://naver.com"
-  - name: park
+  - name: 이상원
     interests: "NLP"
     gitblog: "https://naver.com"
-  - name: park
+  - name: 이문기
     interests: "NLP"
     gitblog: "https://naver.com"
-  - name: Jeiyoon Park
+  - name: 임수연
     interests: "NLP"
     gitblog: "https://naver.com"
-  - name: Jeiyoon Park
+  - name: 오예림
     interests: "NLP"
     gitblog: "https://naver.com"
-  - name: park
+  - name: 오창대
     interests: "NLP"
     gitblog: "https://naver.com"
-  - name: park
+  - name: 원희지
     interests: "NLP"
     gitblog: "https://naver.com"
-  - name: park
+  - name: 조재훈
     interests: "NLP"
     gitblog: "https://naver.com"
-  - name: park
+  - name: 
     interests: "NLP"
     gitblog: "https://naver.com"
