@@ -273,7 +273,7 @@ defaults:
       show_date: true
 
 # member list
-people (*Alphabetical order):
+people:
   - name: Jeiyoon Park
     interests: "NLP"
     gitblog: "https://naver.com"
