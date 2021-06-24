@@ -16,7 +16,7 @@ minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon"
 
 # Site Settings
 locale: "en-US"
-title: "TAVE Research Blog"
+title: "TAVE Research"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 name: "TAVE Research"
@@ -274,6 +274,7 @@ defaults:
 
 # member list
 people:
+  - name: *Alphabetical order
   - name: Jeiyoon Park
     interests: "NLP"
     gitblog: "https://naver.com"
