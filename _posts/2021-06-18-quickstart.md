@@ -53,10 +53,29 @@ tag:
 ---
 ```
 
-### 수식 추가
+### 수식 추가하기
 
-- 수식은 기본적으로 latex 문법을 따름
-- 내용 추가 예정
+- 기본적으로 Latex 문법을 따른다. [Latex 기호](https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:TeX_%EB%AC%B8%EB%B2%95)
+
+#### 블록 수식 추가
+
+$$
+f_x = x^2 + 3
+$$
+
+```markdown
+$$
+f_x = x^2 + 3
+$$
+```
+
+#### inline 수식 추가
+
+- inline mathjax $y_t = {x \over t}$
+
+```
+$y_t = {x \over t}$
+```
 
 ### 이미지 추가
 
