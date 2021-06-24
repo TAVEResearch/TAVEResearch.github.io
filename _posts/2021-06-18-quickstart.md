@@ -111,27 +111,3 @@ member:
     interests: "관심사"
     gitblog: "블로그나 github 주소"
 ```
-
-## 수식 추가하기
-
-- 기본적으로 Latex 문법을 따른다. [Latex 기호](https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:TeX_%EB%AC%B8%EB%B2%95)
-
-#### 블록 수식 추가
-
-$$
-f_x = x^2 + 3
-$$
-
-```markdown
-$$
-f_x = x^2 + 3
-$$
-```
-
-#### inline 수식 추가
-
-- inline mathjax $y_t = {x \over t}$
-
-```
-$y_t = {x \over t}$
-```
