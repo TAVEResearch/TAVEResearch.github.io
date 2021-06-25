@@ -108,9 +108,9 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+    - label: "Youtube"
+      icon: "fab fa-youtube-square"
+      url: "https://www.youtube.com/channel/UChJVcaf67lOTD0DIwldcfUw/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/TAVEResearch"
@@ -278,8 +278,8 @@ People:
     interests: "Natural Language Processing, Data Analysis"
     gitblog: "https://www.notion.so/ozbhyxxn/Self-introduction-2ef0178f6cbb402ab555afa973558363"
   - name: Yewon Park
-#     interests: "NLP"
-#     gitblog: "https://naver.com"
+  #     interests: "NLP"
+  #     gitblog: "https://naver.com"
   - name: Jeiyoon Park
     interests: "Dialog Systems, Meta-learning, Reinforcement Learning"
     gitblog: "https://jeiyoon.github.io/"
@@ -290,8 +290,8 @@ People:
     interests: "Natural Language Processing, Control Theory"
     gitblog: "https://marshmellowon.github.io/"
   - name: Moongi Lee
-#     interests: "NLP"
-#     gitblog: "https://naver.com"
+  #     interests: "NLP"
+  #     gitblog: "https://naver.com"
   - name: Sooyeon Lim
     interests: "Computer Vision, Natural Language Processing"
     gitblog: "https://github.com/sooyeonLim"
@@ -306,7 +306,7 @@ People:
     gitblog: "https://github.com/HeejiWon"
   - name: Jaehoon Cho
     interests: "Deep Learning, Image Processing"
-#     gitblog: "https://naver.com"
+  #     gitblog: "https://naver.com"
   - name: Younghoon Choi
 #     interests: "NLP"
 #     gitblog: "https://naver.com"
