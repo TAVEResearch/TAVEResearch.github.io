@@ -20,6 +20,11 @@ TAVE OB들을 위한 연구그룹입니다. 컴퓨터비전 및 자연어처리�
 - 인공지능 그랜드 챌린지 (이도형, 오남수, 김명찬, 박제윤)
 - 
 
-# 3. Notice
+# 3. 진행중인 스터디
+
+- Research Seminar
+- Deep Learning
+
+# 4. Notice
 
 - [06.25.2021] 같이 연구할 분들을 찾고 있습니다. [소개서](https://taveresearch.github.io/imgs/ot.pdf)를 보시고 [k4ke@korea.ac.kr](k4ke@korea.ac.kr)로 자유롭게 연락주세요ㅎㅎ. 함께 기술로 사람들에게 즐거움을 줄 수있는 연구자, 개발자로 성장했으면 합니다.  
