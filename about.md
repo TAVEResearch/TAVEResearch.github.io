@@ -23,6 +23,7 @@ TAVE OB들을 위한 연구그룹입니다. 컴퓨터비전 및 자연어처리�
 
 - Research Seminar
 - Deep Learning
+- Algorithm (Python)
 
 # 4. Notice
 
