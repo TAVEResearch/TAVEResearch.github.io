@@ -15,9 +15,9 @@ TAVE OB들을 위한 연구그룹입니다. 컴퓨터비전 및 자연어처리�
 
 # 2. 진행중인 프로젝트
 
-- DSTC10: Automatic Evaluation and Moderation of Open-domain Dialogue Systems (박제윤)
+- DSTC10: Automatic Evaluation and Moderation of Open-domain Dialogue Systems (박제윤, 한지은)
 - 한국어 large-scale model 연구 (박제윤, 김영현, 오예림)
-- 인공지능 그랜드 챌린지 (박제윤)
+- 인공지능 그랜드 챌린지 (이도형, 오남수, 김명찬, 박제윤)
 - 
 
 # 3. Notice
