@@ -274,10 +274,10 @@ defaults:
 
 # member list
 People:
-  - name: ![Yeonghyeon Kim](https://www.notion.so/ozbhyxxn/Self-introduction-2ef0178f6cbb402ab555afa973558363)
+  - name: Yeonghyeon Kim
     interests: "Natural Language Processing, Data Analysis"
     gitblog: "https://www.notion.so/ozbhyxxn/Self-introduction-2ef0178f6cbb402ab555afa973558363"
-  - name: Yewon Park
+  - name: <link rel="Yewon Park" href="https://www.notion.so/ozbhyxxn/Self-introduction-2ef0178f6cbb402ab555afa973558363">
 #     interests: "NLP"
 #     gitblog: "https://naver.com"
   - name: Jeiyoon Park
