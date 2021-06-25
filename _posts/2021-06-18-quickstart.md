@@ -7,6 +7,10 @@ categories:
 tag:
   - blog
 author: Sangwon
+lastmod: 2021-06-25 14:52:00
+sitemap:
+  changefreq: daily
+  priority: 1.0
 ---
 
 ### Ruby설치
