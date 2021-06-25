@@ -1,7 +1,8 @@
 {% for post in site.People %}
     <hr>
-    <div>{{ post.name }}</div>
+    <div><a href="{{ post.gitblog }}">{{ post.name }}</a></div>
+<!--     <div>{{ post.name }}</div> -->
 <!--     <div><a href="{{ post.name }}">{{ post.name }}</a></div> -->
     <div>{{ post.interests }}</div>
-    <div><a href="{{ post.gitblog }}">{{ post.name }}</a></div>
+<!--     <div><a href="{{ post.gitblog }}">{{ post.name }}</a></div> -->
 {% endfor %}
