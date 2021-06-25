@@ -8,13 +8,16 @@ author_profile: false
 TAVE OB들을 위한 연구그룹입니다.
 
 
-# 1.
+# 1. News
 
-🚧 Under Construction 🚧
+[06.25.2021] TBA 😊
 
-# 2.
 
-🚧 Under Construction 🚧
+# 2. 진행중인 프로젝트
+
+- ㅁ
+- ㅁ
+- ㅁ
 
 # 3.
 
