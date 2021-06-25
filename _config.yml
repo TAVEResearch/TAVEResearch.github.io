@@ -293,8 +293,8 @@ People:
 #     interests: "NLP"
 #     gitblog: "https://naver.com"
   - name: Sooyeon Lim
-#     interests: "NLP"
-#     gitblog: "https://naver.com"
+    interests: "Computer Vision, Natural Language Processing"
+    gitblog: "https://github.com/sooyeonLim"
   - name: Yerim Oh
     interests: "Machine Learning, Deep Learning"
     gitblog: "https://yerimoh.github.io/"
