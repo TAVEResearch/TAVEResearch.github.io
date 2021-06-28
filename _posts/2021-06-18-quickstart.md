@@ -12,6 +12,9 @@ sitemap:
   changefreq: daily
   priority: 1.0
 comments: true
+toc: true
+toc_sticky: true
+toc_label: "Start Blog"
 ---
 
 ### Ruby설치
@@ -61,6 +64,9 @@ sitemap:
   changefreq: daily
   priority: 1.0
 comments: true
+toc: true
+toc_sticky: true
+toc_label: "Start Blog"
 ---
 ```
 
