@@ -17,6 +17,7 @@ TAVE OB들을 위한 연구그룹입니다. 컴퓨터비전, 자연어처리, �
 
 - DSTC10: Automatic Evaluation and Moderation of Open-domain Dialogue Systems (박제윤, 한지은)
 - 한국어 large-scale model 연구 (박제윤, 김영현, 오예림, 이상원, 김민규)
+- 제 19회 임베디드 소프트웨어 경진대회: 지능형 휴머노이드 (최영훈, 오예림, 하수범, 김태원, 한재욱)
 - (추가중...🚧)
 
 # 3. 진행중인 스터디
