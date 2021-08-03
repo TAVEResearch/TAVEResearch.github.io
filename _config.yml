@@ -289,9 +289,9 @@ People:
   - name: 손명현
     interests: ""
     gitblog: ""  
-  - name: 신석종
-    interests: ""
-    gitblog: ""
+  - name: 신석종 (Seokjong Shin)
+    interests: "Data Analysis, Machine Learning, Deep Learning"
+    gitblog: "https://github.com/totoma3"
   - name: 심소민 (Somin Shim)
     interests: "Machine Learning"
     gitblog: "https://github.com/sominshim"
@@ -328,9 +328,9 @@ People:
   - name: 임지현 (Jihyun Lim)
     interests: "Back-end"
     gitblog: "https://github.com/jadeneu"
-  - name: 정은진
-    interests: ""
-    gitblog: ""  
+  - name: 정은진 (Eunjin Jung)
+    interests: "Data Visualization, Data Analysis, Machine Learning"
+    gitblog: "https://github.com/jayjinnie"  
   - name: 조재훈 (Jaehoon Cho)
     interests: "Deep Learning, Image Processing"
   #     gitblog: "https://naver.com"
@@ -343,6 +343,6 @@ People:
   - name: 하정현 (Jeonghyun Ha)
     interests: "Data Analysis, Machine Learning"
     gitblog: "https://github.com/jeonghyunhaaa"    
-  - name: 허주희
-    interests: ""
-    gitblog: ""   
+  - name: 허주희 (Juhui Heo)
+    interests: "Machine Learning"
+    gitblog: "https://github.com/JuHuiHeo"   
