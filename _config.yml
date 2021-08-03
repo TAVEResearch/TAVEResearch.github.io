@@ -316,9 +316,9 @@ People:
   - name: 이상원 (Sangwon Lee)
     interests: "Natural Language Processing, Control Theory"
     gitblog: "https://s-wlii.github.io/"
-  - name: 이준용
-    interests: ""
-    gitblog: ""
+  - name: 이준용 (Junyong Lee)
+    interests: "Machine Learning, Embedded Systems"
+    gitblog: "https://lee-jun-yong.github.io/"
   - name: 이하연
     interests: ""
     gitblog: ""   
