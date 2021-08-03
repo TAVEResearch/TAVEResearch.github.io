@@ -274,33 +274,75 @@ defaults:
 
 # member list
 People:
+  - name: 김대현 (Daehyun Kim)
+    interests: "Data Analysis, Machine Learning"
+    gitblog: "https://github.com/daehyun0411"
   - name: 김영현 (Yeonghyeon Kim)
     interests: "Natural Language Processing, Data Analysis"
     gitblog: "https://www.notion.so/ozbhyxxn/Self-introduction-2ef0178f6cbb402ab555afa973558363"
+  - name: 민지웅
+    interests: 
+    gitblog:   
   - name: 박제윤 (Jeiyoon Park)
     interests: "Dialog Systems, Meta-learning, Reinforcement Learning"
     gitblog: "https://jeiyoon.github.io/"
+  - name: 손명현
+    interests: 
+    gitblog:      
+  - name: 신석종
+    interests: 
+    gitblog:    
   - name: 심소민 (Somin Shim)
     interests: "Machine Learning"
     gitblog: "https://github.com/sominshim"
-  - name: 이상원 (Sangwon Lee)
-    interests: "Natural Language Processing, Control Theory"
-    gitblog: "https://s-wlii.github.io/"
-  - name: 이문기 (Moongi Lee)
-    interests: "Numerical Data Analysis, Digital Transformation for Smart Workplace, Mydata Business of B2C Business"
-    gitblog: "https://blog.naver.com/ansrl23"
-  - name: 임수연 (Sooyeon Lim)
-    interests: "Computer Vision, Natural Language Processing"
-    gitblog: "https://github.com/sooyeonLim"
+  - name: 안세윤
+    interests: 
+    gitblog:    
   - name: 오예림 (Yerim Oh)
     interests: "Machine Learning, Deep Learning"
     gitblog: "https://yerimoh.github.io/"
   - name: 오창대 (Changdae Oh)
     interests: "Generative Modeling"
-    gitblog: "https://github.com/changdaeoh"
+    gitblog: "https://github.com/changdaeoh"  
   - name: 원희지 (Heeji Won)
     interests: "Visual Tracking, Object Detection"
-    gitblog: "https://github.com/HeejiWon"
+    gitblog: "https://github.com/HeejiWon"    
+  - name: 윤재호
+    interests: 
+    gitblog:       
+  - name: 이문기 (Moongi Lee)
+    interests: "Numerical Data Analysis, Digital Transformation for Smart Workplace, Mydata Business of B2C Business"
+    gitblog: "https://blog.naver.com/ansrl23"  
+  - name: 이상원 (Sangwon Lee)
+    interests: "Natural Language Processing, Control Theory"
+    gitblog: "https://s-wlii.github.io/"
+  - name: 이준용
+    interests: 
+    gitblog:    
+  - name: 이하연
+    interests: 
+    gitblog:        
+  - name: 임수연 (Sooyeon Lim)
+    interests: "Computer Vision, Natural Language Processing"
+    gitblog: "https://github.com/sooyeonLim"
+  - name: 임지현 (Jihyun Lim)
+    interests: "Back-end"
+    gitblog: "https://github.com/jadeneu"
+  - name: 정은진
+    interests: 
+    gitblog:       
   - name: 조재훈 (Jaehoon Cho)
     interests: "Deep Learning, Image Processing"
   #     gitblog: "https://naver.com"
+  - name: 지수 (Sue Jee)
+    interests: "Front-end"
+    gitblog: "https://github.com/gee0728"    
+  - name: 채원석
+    interests: 
+    gitblog:        
+  - name: 하정현 (Jeonghyun Ha)
+    interests: "Data Analysis, Machine Learning"
+    gitblog: "https://github.com/jeonghyunhaaa"    
+  - name: 허주희
+    interests: 
+    gitblog:        
