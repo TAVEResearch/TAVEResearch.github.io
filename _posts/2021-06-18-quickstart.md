@@ -123,7 +123,7 @@ $y_t = {x \over t}$
 - \_config.yml 파일에 members에서 추가 가능하다.
 
 ```yaml
-member:
+People:
   - name: 이름
     interests: "관심사"
     gitblog: "블로그나 github 주소"
