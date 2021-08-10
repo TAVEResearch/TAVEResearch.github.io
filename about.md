@@ -33,3 +33,4 @@ TAVE OB들을 위한 연구 및 개발 그룹입니다. 컴퓨터비전, 자연�
 # 4. Notice
 
 - 같이 연구할 OB분들을 찾고 있습니다! [　](https://taveresearch.github.io/imgs/nakama.png) [TaveResearchOfficial@gmail.com](mailto:TaveResearchOfficial@gmail.com)로 자유롭게 연락주세요.
+- 기존 스터디 및 프로젝트에 참여하고 싶으신 분들은 각 그룹의 리드와 상담하세요
