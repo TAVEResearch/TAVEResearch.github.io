@@ -1,4 +1,4 @@
 ---
 layout: about
-title: People (24)
+title: People (25)
 ---
