@@ -24,7 +24,6 @@ TAVE OB들을 위한 연구 및 개발 그룹입니다. 컴퓨터비전, 자연�
 # 3. 진행중인 스터디
 
 - [Research Seminar](https://www.notion.so/Research-Seminar-c5cc5ea3cec34e1ea93dba80d6040dad) (오창대, 원희지, 박제윤, 민지웅, 한지은)
-- Deep Learning (박제윤, 이문기, 이상원, 오예림)
 - Visual Tracking (원희지, 서준혁, 고승일, 김경준)
 - [Python Algorithm](https://github.com/TAVEResearch/TAVE_algorithm_study) (박제윤, 이상원, 오예림, 허주희, 임지현, 이하연, 이우빈)
 - [한국어 large-scale model 연구](https://github.com/TAVEResearch/Korean_large-scale_model) (박제윤, 김영현, 오예림, 이상원, 김민규)
