@@ -36,7 +36,7 @@ toc_label: "Start Blog"
 - 딥러닝의 기본 3요소는 크게 "데이터", "인공신경망", 그리고 손실함수라고 볼 수 있습니다. 여기서 머신러닝과 딥러닝의 차이점은 바로 "인공신경망" 입니다.
 - 기본적인 인공 신경망에 공부에 대해서는 (1) 가장 기본적인 밑바닥 구현부터, (2) Tensorflow와 PyTorch의 대략적인 사용법, (3) 딥러닝에 대한 깊은 이해, 이 세가지를 모두 다루어야 합니다.
 - (1)은 ["밑바닥 부터 시작하는 딥러닝 (1,2,3권)"](https://github.com/WegraLee?tab=repositories), (2)는 ["모두를 위한 딥러닝"](https://deeplearningzerotoall.github.io/season2/), (3)은 ["Introduction to Deep Learning (CMU, Bhiksha Raj)"](http://deeplearning.cs.cmu.edu/F20/index.html)로 커버할 수 있습니다.     
-- 직군마다 다르지만 최근 데이터분석 및 리서치 직군을 지원할때 머신러닝과 딥러닝을 밑바닥 부터 구현하는 코딩테스트가 정말 빈번하게 출제되고 있습니다 (e.g. Linear regression 코드 구현, Multi-Layer Perceptron 코드 구현). 
+- 직군마다 다르지만 최근 데이터분석 및 리서치 직군을 지원할때 머신러닝과 딥러닝을 밑바닥 부터 구현하는 코딩테스트가 정말 빈번하게 출제되고 있습니다 (e.g. Linear regression 코드 구현, Multi-Layer Perceptron 및 Back propagation 코드 구현). 
 - 이러한 문제들은 딥러닝에 대한 깊은 이해와 더불어 밑바닥부터 코드가 어떤식으로 구동되는지 모른다면 풀기 매우 어렵습니다.
 - 따라서 딥러닝을 공부하시는 분들이라면 제가 추천드리는 자료들은 모두 보시길 적극 권장합니다.  
 
