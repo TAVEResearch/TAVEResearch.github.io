@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 추천 공부자료들입니다.
+title: 추천 공부자료들입니다 😋
 excerpt: Python, ML, DL, ... (추가중 🚧) 
 categories:
   - blog
