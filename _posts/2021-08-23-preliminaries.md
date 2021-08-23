@@ -6,8 +6,8 @@ categories:
   - blog
 tag:
   - blog
-author: Sangwon
-lastmod: 2021-06-25 14:52:00
+author: Jeiyoon
+lastmod: 2021-08-23 11:36:00
 sitemap:
   changefreq: daily
   priority: 1.0
@@ -17,9 +17,9 @@ toc_sticky: true
 toc_label: "Start Blog"
 ---
 
-### Ruby설치
+### 파이썬
 
-- 윈도우는 [WSL](https://www.44bits.io/ko/post/wsl2-install-and-basic-usage)을 사용하거나 [여기](https://www.ruby-lang.org/en/downloads/)서 다운받는다.
+- [파이썬 알고리즘 인터뷰](https://github.com/onlybooks/algorithm-interview)라는 책을 강력하게 추천합니다. 기본적인 파이썬에 대한 개념 뿐만 아니라 절대로 몰라서는 안되는 지식들, 거기에 각종 팁들까지 잘 정리되어있어서 처음 공부하시는 분들 뿐만 아니라 어느정도 파이썬에 대해 숙달되신 분들께서도 보시면 정말 좋을거라고 확신합니다.
 
 ```terminal
 # Ubuntu
