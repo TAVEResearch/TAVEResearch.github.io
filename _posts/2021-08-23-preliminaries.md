@@ -22,12 +22,11 @@ toc_label: "Start Blog"
 - ["파이썬 알고리즘 인터뷰"](https://github.com/onlybooks/algorithm-interview)라는 책을 강력하게 추천합니다! 
 - 기본적인 파이썬에 대한 개념 뿐만 아니라 절대로 몰라서는 안되는 지식들, 거기에 각종 팁들까지 잘 정리되어 있기 때문에 파이썬을 사용하시는 분들이라면 실력과 분야를 막론하고 꼭 보셔야 되는 책이라고 생각합니다!
 
-```terminal
-# Ubuntu
-sudo apt-get install ruby-full
-```
 
-### jekyll과 bundler 설치
+### 머신러닝
+
+- ["카이스트 문일철 교수님의 강의들"](https://kooc.kaist.ac.kr/)과 ["머신 러닝 교과서 with 파이썬, 사이킷런, 텐서플로"](https://github.com/gilbutITbook/080223) 라는 책, 그리고 ["데이터 과학자와 데이터 엔지니어를 위한 인터뷰 문답집"](https://jpub.tistory.com/1057) 이라는 책을 추천드립니다.
+- 우선 문일철 교수님의 강의부터 말씀드리면
 
 ```terminal
 # sudo 가 필요할 수 있다.
