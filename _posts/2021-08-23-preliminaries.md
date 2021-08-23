@@ -1,7 +1,7 @@
 ---
 layout: single
 title: 추천 공부자료들입니다.
-excerpt: ML, DL, Python (추가중) 
+excerpt: Python, ML, DL, ... (추가중) 
 categories:
   - blog
 tag:
