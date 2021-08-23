@@ -1,7 +1,7 @@
 ---
 layout: single
-title: jekyll blog 시작하기
-excerpt: jekyll 블로그 관리하기
+title: 추천 공부자료들입니다.
+excerpt: ML, DL, Python (추가중) 
 categories:
   - blog
 tag:
