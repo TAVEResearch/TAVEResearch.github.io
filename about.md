@@ -19,7 +19,7 @@ TAVE OB들을 위한 연구 및 개발 그룹입니다. 컴퓨터비전, 자연�
 - [DSTC10: Automatic Evaluation and Moderation of Open-domain Dialogue Systems](https://github.com/Jeiyoon/dstc10) (박제윤, 한지은)
 - 제 19회 임베디드 소프트웨어 경진대회: 지능형 휴머노이드 (최영훈, 오예림, 하수범, 김태원, 한재욱)
 - IPG Automotive ADSC (INU Autonomous Driving Software Challenge) (이상원, 윤재호, 이정철, 전인수)
-- NVIDIA DLI Certificated Instructor Program: Fundamentals of Deep Learning (오예림, 박제윤)
+- [NVIDIA DLI Certificated Instructor Program: Fundamentals of Deep Learning](https://www.nvidia.com/en-us/) (오예림, 박제윤)
 - (추가중...🚧)
 
 # 3. 진행중인 스터디
