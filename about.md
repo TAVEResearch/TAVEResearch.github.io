@@ -20,7 +20,8 @@ author_profile: false
 - 제 19회 임베디드 소프트웨어 경진대회: 지능형 휴머노이드 (최영훈, 오예림, 하수범, 김태원, 한재욱)
 - IPG Automotive ADSC (INU Autonomous Driving Software Challenge) (이상원, 윤재호, 이정철, 전인수)
 - [NVIDIA DLI Certificated Instructor Program: Fundamentals of Deep Learning](https://www.nvidia.com/en-us/) (오예림, 박제윤)
-- (추가중...🚧)
+- 빅데이터 캠퍼스 데이터 분석 대회 (신석종, 손명현, 이준용, 전용찬)
+- 데이터 분석 & 시각화 (김영현, 정은진 김대현)
 
 # 3. 진행중인 스터디
 
@@ -28,7 +29,8 @@ author_profile: false
 - Visual Tracking (원희지, 서준혁, 고승일, 김경준)
 - [Python Algorithm](https://github.com/TAVEResearch/TAVE_algorithm_study) (박제윤, 이상원, 오예림, 허주희, 임지현, 이하연, 이우빈)
 - [한국어 large-scale model 연구](https://github.com/TAVEResearch/Korean_large-scale_model) (박제윤, 김영현, 오예림, 이상원, 김민규)
-- (추가중...🚧)
+- Django (임지현, 이하연, 손명현)
+- Computer Vision (전용찬, 이준용)
 
 # 4. Notice
 
