@@ -21,7 +21,7 @@ author_profile: false
 - IPG Automotive ADSC (INU Autonomous Driving Software Challenge) (이상원, 윤재호, 이정철, 전인수)
 - [NVIDIA DLI Certificated Instructor Program: Fundamentals of Deep Learning](https://www.nvidia.com/en-us/) (오예림, 박제윤)
 - 2021 서울시 빅데이터 캠퍼스 공모전 (신석종, 손명현, 이준용, 전용찬)
-- 데이터 분석 & 시각화 (김영현, 정은진 김대현)
+- 데이터 분석 & 시각화 (김영현, 정은진, 김대현)
 
 # 3. 진행중인 스터디
 
