@@ -20,7 +20,7 @@ author_profile: false
 - 제 19회 임베디드 소프트웨어 경진대회: 지능형 휴머노이드 (최영훈, 오예림, 하수범, 김태원, 한재욱)
 - IPG Automotive ADSC (INU Autonomous Driving Software Challenge) (이상원, 윤재호, 이정철, 전인수)
 - [NVIDIA DLI Certificated Instructor Program: Fundamentals of Deep Learning](https://www.nvidia.com/en-us/) (오예림, 박제윤)
-- 빅데이터 캠퍼스 데이터 분석 대회 (신석종, 손명현, 이준용, 전용찬)
+- 2021 서울시 빅데이터 캠퍼스 공모전 (신석종, 손명현, 이준용, 전용찬)
 - 데이터 분석 & 시각화 (김영현, 정은진 김대현)
 
 # 3. 진행중인 스터디
