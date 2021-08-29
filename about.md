@@ -21,7 +21,8 @@ author_profile: false
 - IPG Automotive ADSC (INU Autonomous Driving Software Challenge) (이상원, 윤재호, 이정철, 전인수)
 - [NVIDIA DLI Certificated Instructor Program: Fundamentals of Deep Learning](https://www.nvidia.com/en-us/) (오예림, 박제윤)
 - 2021 서울시 빅데이터 캠퍼스 공모전 (신석종, 손명현, 이준용, 전용찬)
-- 데이터 분석 & 시각화 (김영현, 정은진, 김대현)
+- 2021 서울시 빅데이터 캠퍼스 공모전 (오예림, 이상원, 허주희, 이동훈)
+- 데이터 분석 & 시각화 (김영현, 정은진, 김대현, 심소민)
 
 # 3. 진행중인 스터디
 
@@ -31,6 +32,8 @@ author_profile: false
 - [한국어 large-scale model 연구](https://github.com/TAVEResearch/Korean_large-scale_model) (박제윤, 김영현, 오예림, 이상원, 김민규, 민지웅)
 - Django (임지현, 이하연, 손명현)
 - Computer Vision (전용찬, 이준용)
+- Deep Learning (박제윤 이상원 이문기 허주희 안세윤 채원석 하정현)
+- Machine Learning (이상원, 안세윤, 박제윤)
 
 # 4. Notice
 
