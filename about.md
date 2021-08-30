@@ -37,5 +37,5 @@ author_profile: false
 
 # 4. Notice
 
-- 같이 연구할 OB분들을 찾고 있습니다! [　](https://taveresearch.github.io/imgs/nakama.png) Contact: [TaveResearchOfficial@gmail.com](mailto:TaveResearchOfficial@gmail.com)
+- Contact: [TaveResearchOfficial@gmail.com](mailto:TaveResearchOfficial@gmail.com) [　](https://taveresearch.github.io/imgs/nakama.png) 
 - 기존 스터디 및 프로젝트에 참여하고 싶으신 분들은 각 그룹의 리드와 상담하세요
