@@ -22,7 +22,7 @@ author_profile: false
 - [NVIDIA DLI Certificated Instructor Program: Fundamentals of Deep Learning](https://www.nvidia.com/en-us/) (오예림, 박제윤)
 - 2021 서울시 빅데이터 캠퍼스 공모전 (신석종, 손명현, 이준용, 전용찬)
 - 2021 서울시 빅데이터 캠퍼스 공모전 (오예림, 이상원, 허주희, 이동훈)
-- 데이터 분석 & 시각화 (김영현, 정은진, 김대현, 심소민)
+- COVID-19 데이터 분석 & 시각화 (김영현, 정은진, 김대현, 심소민)
 
 # 3. 진행중인 스터디
 
