@@ -37,4 +37,4 @@ author_profile: false
 
 # 4. Notice
 
-- 📧Contact: [TaveResearchOfficial@gmail.com](mailto:TaveResearchOfficial@gmail.com) [　](https://taveresearch.github.io/imgs/nakama.png) 
+- [📧](https://taveresearch.github.io/imgs/nakama.png) Contact: [TaveResearchOfficial@gmail.com](mailto:TaveResearchOfficial@gmail.com)
