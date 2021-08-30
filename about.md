@@ -31,11 +31,11 @@ author_profile: false
 - [Python Algorithm](https://github.com/TAVEResearch/TAVE_algorithm_study) (박제윤, 이상원, 오예림, 허주희, 임지현, 이하연, 이우빈)
 - [한국어 large-scale model 연구](https://github.com/TAVEResearch/Korean_large-scale_model) (박제윤, 김영현, 오예림, 이상원, 김민규, 민지웅)
 - Django (임지현, 이하연, 손명현)
-- Computer Vision (전용찬, 이준용)
+- CNNs for Visual Recognition (전용찬, 이준용, 윤재호)
 - [Deep Learning](https://github.com/TAVEResearch/deep_learning) (박제윤, 이상원, 이문기, 허주희, 안세윤, 채원석, 하정현)
 - [Machine Learning](https://github.com/TAVEResearch/machine_learning) (이상원, 안세윤, 박제윤, 오예림)
 
 # 4. Notice
 
-- 같이 연구할 OB분들을 찾고 있습니다! [　](https://taveresearch.github.io/imgs/nakama.png) [TaveResearchOfficial@gmail.com](mailto:TaveResearchOfficial@gmail.com)로 자유롭게 연락주세요.
+- 같이 연구할 OB분들을 찾고 있습니다! [　](https://taveresearch.github.io/imgs/nakama.png) Contact: [TaveResearchOfficial@gmail.com](mailto:TaveResearchOfficial@gmail.com)
 - 기존 스터디 및 프로젝트에 참여하고 싶으신 분들은 각 그룹의 리드와 상담하세요
