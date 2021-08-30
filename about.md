@@ -38,4 +38,3 @@ author_profile: false
 # 4. Notice
 
 - Contact: [TaveResearchOfficial@gmail.com](mailto:TaveResearchOfficial@gmail.com) [　](https://taveresearch.github.io/imgs/nakama.png) 
-- 기존 스터디 및 프로젝트에 참여하고 싶으신 분들은 각 그룹의 리드와 상담하세요
