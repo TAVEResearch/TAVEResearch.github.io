@@ -28,7 +28,7 @@ author_profile: false
 
 - [Research Seminar](https://www.notion.so/Research-Seminar-c5cc5ea3cec34e1ea93dba80d6040dad) (오창대, 원희지, 박제윤, 민지웅, 한지은)
 - Visual Tracking (원희지, 서준혁, 고승일, 김경준)
-- [Python Algorithm](https://github.com/TAVEResearch/TAVE_algorithm_study) (박제윤, 이상원, 오예림, 허주희, 임지현, 이하연, 이우빈)
+- [Python Algorithm](https://github.com/TAVEResearch/TAVE_algorithm_study) (박제윤, 이상원, 오예림, 허주희, 임지현, 이하연, 이우빈, 임예람)
 - [한국어 large-scale model 연구](https://github.com/TAVEResearch/Korean_large-scale_model) (박제윤, 김영현, 오예림, 이상원, 김민규, 민지웅)
 - Django (임지현, 이하연, 손명현)
 - [CNNs for Visual Recognition](https://github.com/TAVEResearch/cs231n) (전용찬, 이준용, 윤재호)
