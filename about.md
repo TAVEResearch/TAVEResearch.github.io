@@ -36,7 +36,7 @@ author_profile: false
 - [Deep Learning](https://github.com/TAVEResearch/deep_learning) (박제윤, 이문기, 허주희, 안세윤, 채원석, 하정현)
 - [Machine Learning](https://github.com/TAVEResearch/machine_learning) (이상원, 안세윤, 박제윤, 오예림)
 
-# 4. 이전 스터디
+# 4. 이전 스터디 / 프로젝트
 
 - TBA
 
