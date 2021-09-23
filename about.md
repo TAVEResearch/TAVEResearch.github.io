@@ -31,7 +31,7 @@ author_profile: false
 - Visual Tracking (원희지, 서준혁, 고승일, 김경준)
 - [Python Algorithm](https://github.com/TAVEResearch/TAVE_algorithm_study) (박제윤, 이상원, 오예림, 허주희, 임지현, 이하연, 이우빈, 임예람)
 - [한국어 large-scale model 연구](https://github.com/TAVEResearch/Korean_large-scale_model) (박제윤, 김영현, 오예림, 이상원, 김민규, 민지웅)
-- Django (임지현, 이하연, 손명현)
+- [Django (임지현, 이하연, 손명현)](https://github.com/TAVEResearch/AMA)
 - [CNNs for Visual Recognition](https://github.com/TAVEResearch/cs231n) (전용찬, 이준용, 윤재호)
 - [Deep Learning](https://github.com/TAVEResearch/deep_learning) (박제윤, 이문기, 허주희, 안세윤, 채원석, 하정현)
 - [Machine Learning](https://github.com/TAVEResearch/machine_learning) (이상원, 안세윤, 박제윤, 오예림)
