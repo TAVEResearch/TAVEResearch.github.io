@@ -25,7 +25,6 @@ author_profile: false
 - 2021 서울시 빅데이터 캠퍼스 공모전 (신석종, 손명현, 이준용, 전용찬)
 - 2021 서울시 빅데이터 캠퍼스 공모전 (오예림, 이상원, 허주희, 이동훈)
 - COVID-19 데이터 분석 & 시각화 (김영현, 정은진, 김대현, 심소민)
-- Samsung Junior Software Cup: A chatbot to close the Digital Divide for the elderly (장채연, 황혜린, 양수현, 박제윤, 추윤형)
 
 # 3. 진행중인 스터디
 
@@ -40,6 +39,7 @@ author_profile: false
 # 4. 이전 스터디 / 프로젝트
 
 - [한국어 large-scale model 연구](https://github.com/TAVEResearch/Korean_large-scale_model) (박제윤, 오예림, 이상원, 김민규, 민지웅)
+- [Samsung Junior Software Cup: A chatbot to close the Digital Divide for the elderly](https://github.com/hyerinh/CBNGR) (장채연, 황혜린, 양수현, 박제윤, 추윤형)
 
 # 5. Notice
 
