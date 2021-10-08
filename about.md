@@ -39,7 +39,7 @@ author_profile: false
 # 4. 이전 스터디 / 프로젝트
 
 - [한국어 large-scale model 연구](https://github.com/TAVEResearch/Korean_large-scale_model) (박제윤, 오예림, 이상원, 김민규, 민지웅)
-- [Samsung Junior Software Cup: A chatbot to close the Digital Divide for the elderly](https://github.com/hyerinh/CBNGR) (장채연, 황혜린, 양수현, 박제윤, 추윤형)
+- [삼성 주니어 SW 창작대회: 정보격차 완화를 위한 인공지능 챗봇](https://github.com/hyerinh/CBNGR) (장채연, 황혜린, 양수현, 박제윤, 추윤형)
 
 # 5. Notice
 
