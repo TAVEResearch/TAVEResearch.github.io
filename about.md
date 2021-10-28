@@ -37,7 +37,7 @@ author_profile: false
 - [CNNs for Visual Recognition](https://github.com/TAVEResearch/cs231n) (전용찬, 이준용, 윤재호)
 - [Deep Learning](https://github.com/TAVEResearch/deep_learning) (박제윤, 이문기, 허주희, 안세윤, 채원석, 하정현, 권기호, 이아현, 서가을, 고성호)
 - [Machine Learning](https://github.com/TAVEResearch/machine_learning) (이상원, 안세윤, 박제윤, 오예림)
-- [CS330](https://github.com/TAVEResearch/CS330) (박제윤, 한지은) 
+- [CS330: Deep Multi-Task and Meta Learning](https://github.com/TAVEResearch/CS330) (박제윤, 한지은) 
 
 # 4. 이전 스터디 / 프로젝트
 
