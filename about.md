@@ -44,7 +44,7 @@ author_profile: false
 - [DSTC10: Automatic Evaluation and Moderation of Open-domain Dialogue Systems](https://github.com/Jeiyoon/dstc10) (박제윤, 한지은)
 - [삼성 주니어 SW 창작대회: 정보격차 완화를 위한 인공지능 챗봇](https://github.com/hyerinh/CBNGR) (장채연, 황혜린, 양수현, 박제윤, 추윤형)
 - [한국어 large-scale model 연구](https://github.com/TAVEResearch/Korean_large-scale_model) (박제윤, 오예림, 이상원, 김민규, 민지웅)
-- [NVIDIA DLI Ambassador Challenge](https://www.nvidia.com/en-us/) (오예림, 박제윤)
+- [NVIDIA DLI Ambassador Challenge](https://www.nvidia.com/en-us/training/educator-programs/) (오예림, 박제윤)
 
 
 # 5. Notice
