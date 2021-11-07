@@ -22,8 +22,6 @@ author_profile: false
 
 - 제 19회 임베디드 소프트웨어 경진대회: 지능형 휴머노이드 (최영훈, 오예림, 하수범, 김태원, 한재욱)
 - IPG Automotive ADSC (INU Autonomous Driving Software Challenge) (이상원, 윤재호, 이정철, 전인수)
-- 2021 서울시 빅데이터 캠퍼스 공모전 (신석종, 손명현, 이준용, 전용찬)
-- 2021 서울시 빅데이터 캠퍼스 공모전 (오예림, 이상원, 허주희, 이동훈)
 - COVID-19 데이터 분석 & 시각화 (김영현, 정은진, 김대현, 심소민)
 - 해,커리어: 원티드 채용 연계형 해커톤 (임지현, 이우진, 유승곤, 서현지)
 - [IJCAI 2022](https://ijcai-22.org/) (박제윤, 한지은, TBD)
@@ -45,6 +43,8 @@ author_profile: false
 - [삼성 주니어 SW 창작대회: 정보격차 완화를 위한 인공지능 챗봇](https://github.com/hyerinh/CBNGR) (장채연, 황혜린, 양수현, 박제윤, 추윤형)
 - [한국어 large-scale model 연구](https://github.com/TAVEResearch/Korean_large-scale_model) (박제윤, 오예림, 이상원, 김민규, 민지웅)
 - [NVIDIA DLI Ambassador Challenge](https://www.nvidia.com/en-us/training/educator-programs/) (오예림, 박제윤)
+- 2021 서울시 빅데이터 캠퍼스 공모전 (신석종, 손명현, 이준용, 전용찬)
+- 2021 서울시 빅데이터 캠퍼스 공모전 (오예림, 이상원, 허주희, 이동훈)
 
 
 # 5. Notice
