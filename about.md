@@ -31,11 +31,10 @@ author_profile: false
 - [Research Seminar](https://www.notion.so/Research-Seminar-c5cc5ea3cec34e1ea93dba80d6040dad) (오창대, 원희지, 박제윤, 민지웅, 한지은)
 - Visual Tracking (원희지, 서준혁, 고승일, 김경준)
 - [Python Algorithm](https://github.com/TAVEResearch/TAVE_algorithm_study) (박제윤, 이상원, 오예림, 허주희, 임지현, 이하연, 이우빈, 임예람)
-- [Django](https://github.com/TAVEResearch/AMA) (임지현, 이하연, 손명현)
-- [CNNs for Visual Recognition](https://github.com/TAVEResearch/cs231n) (전용찬, 이준용, 윤재호)
 - [Deep Learning](https://github.com/TAVEResearch/deep_learning) (박제윤, 이문기, 허주희, 안세윤, 채원석, 하정현, 권기호, 이아현, 서가을, 고성호)
 - [Machine Learning](https://github.com/TAVEResearch/machine_learning) (이상원, 안세윤, 박제윤, 오예림)
 - [CS330: Deep Multi-Task and Meta Learning](https://github.com/TAVEResearch/CS330) (박제윤, 한지은) 
+- [Django-Study](https://github.com/TAVEResearch/AMA) (임지현, 이하연, 손명현)
 
 # 4. 이전 스터디 / 프로젝트
 
@@ -45,6 +44,9 @@ author_profile: false
 - [NVIDIA DLI Ambassador Challenge](https://www.nvidia.com/en-us/training/educator-programs/) (오예림, 박제윤)
 - 2021 서울시 빅데이터 캠퍼스 공모전 (신석종, 손명현, 이준용, 전용찬)
 - 2021 서울시 빅데이터 캠퍼스 공모전 (오예림, 이상원, 허주희, 이동훈)
+- [CNNs for Visual Recognition](https://github.com/TAVEResearch/cs231n) (전용찬, 이준용, 윤재호)
+- [Django](https://github.com/TAVEResearch/AMA) (임지현, 이하연, 손명현)
+
 
 
 # 5. Notice
