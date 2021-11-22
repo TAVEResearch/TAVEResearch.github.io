@@ -21,7 +21,6 @@ author_profile: false
 # 2. 진행중인 프로젝트
 
 - 제 19회 임베디드 소프트웨어 경진대회: 지능형 휴머노이드 (최영훈, 오예림, 하수범, 김태원, 한재욱)
-- IPG Automotive ADSC (INU Autonomous Driving Software Challenge) (이상원, 윤재호, 이정철, 전인수)
 - COVID-19 데이터 분석 & 시각화 (김영현, 정은진, 김대현, 심소민)
 - 해,커리어: 원티드 채용 연계형 해커톤 (임지현, 이우진, 유승곤, 서현지)
 - [IJCAI 2022](https://ijcai-22.org/) (박제윤, 한지은, TBD)
@@ -46,6 +45,7 @@ author_profile: false
 - 2021 서울시 빅데이터 캠퍼스 공모전 (오예림, 이상원, 허주희, 이동훈)
 - [CNNs for Visual Recognition](https://github.com/TAVEResearch/cs231n) (전용찬, 이준용, 윤재호)
 - [Django](https://github.com/TAVEResearch/AMA) (임지현, 이하연, 손명현)
+- IPG Automotive ADSC (INU Autonomous Driving Software Challenge) (이상원, 윤재호, 이정철, 전인수)
 
 
 
