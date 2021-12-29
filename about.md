@@ -20,7 +20,6 @@ author_profile: false
 
 # 2. 진행중인 프로젝트
 
-- 제 19회 임베디드 소프트웨어 경진대회: 지능형 휴머노이드 (최영훈, 오예림, 하수범, 김태원, 한재욱)
 - COVID-19 데이터 분석 & 시각화 (김영현, 정은진, 김대현, 심소민)
 - 해,커리어: 원티드 채용 연계형 해커톤 (임지현, 이우진, 유승곤, 서현지)
 - [IJCAI 2022](https://ijcai-22.org/) (박제윤, 한지은, TBD)
@@ -32,7 +31,7 @@ author_profile: false
 - [Python Algorithm](https://github.com/TAVEResearch/TAVE_algorithm_study) (박제윤, 이상원, 오예림, 허주희, 임지현, 이하연, 이우빈, 임예람)
 - [Deep Learning](https://github.com/TAVEResearch/deep_learning) (박제윤, 이문기, 허주희, 안세윤, 채원석, 하정현, 권기호, 이아현, 서가을, 고성호)
 - [Machine Learning](https://github.com/TAVEResearch/machine_learning) (이상원, 안세윤, 박제윤, 오예림)
-- [CS330: Deep Multi-Task and Meta Learning](https://github.com/TAVEResearch/CS330) (박제윤, 한지은) 
+- [CS330: Deep Multi-Task and Meta Learning](https://github.com/TAVEResearch/CS330) (박제윤, 한지은)
 - [Django-Study](https://github.com/TAVEResearch/AMA) (임지현, 이하연, 손명현)
 
 # 4. 이전 스터디 / 프로젝트
@@ -46,8 +45,7 @@ author_profile: false
 - [CNNs for Visual Recognition](https://github.com/TAVEResearch/cs231n) (전용찬, 이준용, 윤재호)
 - [Django](https://github.com/TAVEResearch/AMA) (임지현, 이하연, 손명현)
 - IPG Automotive ADSC (INU Autonomous Driving Software Challenge) (이상원, 윤재호, 이정철, 전인수)
-
-
+- 제 19회 임베디드 소프트웨어 경진대회: 지능형 휴머노이드 (최영훈, 오예림, 하수범, 김태원, 한재욱)
 
 # 5. Notice
 
